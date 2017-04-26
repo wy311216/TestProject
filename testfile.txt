@@ -4,4 +4,4 @@ git is a ditributed version control system.
 git is a free software under the GPL.
 The third time test text.
 Git tracks changes of files.
-Create a new branch is quick.
+Create a new branch is quick AND simple.
