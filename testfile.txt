@@ -5,3 +5,4 @@ git is a free software under the GPL.
 The third time test text.
 Git tracks changes of files.
 Create a new branch is quick and simple.
+Branch management.
